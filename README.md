@@ -1,11 +1,11 @@
 
-Graphics Assignment using opengl and blender
+Graphics Assignment using UNITY and blender
 
 This is somewhat like a project in which we have to make a video with characters to convey any theme..
 
 My project:-
 
-1) It is 4-5  minutes video created  using OPENGL and BLENDER.
+1) It is 4-5  minutes video created  using UNITY and BLENDER.
 2) We selected a script that shows the inner feelings of some children who resides at terrorist or naxal prone areas..
 3) We made some guns, boys and guard characaters and some trees and houses.
 4) We recorded the video by projecting the camera to different places and with background narration also...
